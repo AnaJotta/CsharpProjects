@@ -27,7 +27,7 @@ Antes de ejecutar el programa, asegúrate de tener instalado:
 - Un editor de código como Visual Studio Code o Visual Studio Community
 
 Para comprobar si tienes .NET instalado:
-dotnet --version
+**dotnet --version**
 
 ---
 
@@ -94,10 +94,10 @@ Compatible con Windows, macOS y Linux.
 
 🛠 Tecnologías usadas
 
-Lenguaje: C# (.NET 9.0)
-Framework: .NET SDK
-IDE recomendado: Visual Studio Code o Visual Studio
-Sistema operativo: Multiplataforma
+- Lenguaje: C# (.NET 9.0)
+- Framework: .NET SDK
+- IDE recomendado: Visual Studio Code o Visual Studio
+- Sistema operativo: Multiplataforma
 
 ---
 
@@ -115,12 +115,12 @@ Si deseas mejorar el proyecto, sigue estos pasos:
 
 💡 Ideas de mejora
 
-✔ Guardar y cargar datos de los alumnos desde un archivo (JSON, CSV o TXT).
-✔ Añadir validación de entradas (evitar notas fuera de rango).
-✔ Mejorar la interfaz con colores o formato tabular.
-✔ Implementar clases separadas para Alumno y GestorNotas.
-✔ Añadir opción para exportar reportes.
-✔ Añadir pruebas unitarias.
+✔ Guardar y cargar datos de los alumnos desde un archivo (JSON, CSV o TXT).<br>
+✔ Añadir validación de entradas (evitar notas fuera de rango).<br>
+✔ Mejorar la interfaz con colores o formato tabular.<br>
+✔ Implementar clases separadas para Alumno y GestorNotas.<br>
+✔ Añadir opción para exportar reportes.<br>
+✔ Añadir pruebas unitarias.<br>
 
 ---
 
