@@ -1,0 +1,15 @@
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\bin\Debug\net9.0\NotasAlumnos.exe
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\bin\Debug\net9.0\NotasAlumnos.deps.json
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\bin\Debug\net9.0\NotasAlumnos.runtimeconfig.json
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\bin\Debug\net9.0\NotasAlumnos.dll
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\bin\Debug\net9.0\NotasAlumnos.pdb
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\obj\Debug\net9.0\NotasAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\obj\Debug\net9.0\NotasAlumnos.AssemblyInfoInputs.cache
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\obj\Debug\net9.0\NotasAlumnos.AssemblyInfo.cs
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\obj\Debug\net9.0\NotasAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\obj\Debug\net9.0\NotasAlumnos.sourcelink.json
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\obj\Debug\net9.0\NotasAlumnos.dll
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\obj\Debug\net9.0\refint\NotasAlumnos.dll
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\obj\Debug\net9.0\NotasAlumnos.pdb
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\obj\Debug\net9.0\NotasAlumnos.genruntimeconfig.cache
+C:\Users\ajess\Desktop\AnaJotta\C#Projects\NotasAlumnos\obj\Debug\net9.0\ref\NotasAlumnos.dll
